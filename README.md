@@ -31,3 +31,15 @@ The database contains 5 testing protocols with the the variations of morphing ap
 | 3         | the images from ND-IIITD database | the images from self-collected images |
 | 4         | high-resolution probe images      | low-resolution probe images           |
 | 5         | frontal probe face images         | non-frontal probe face images         |
+
+## How to get access to the database?
+
+If you are interested in the database, please read the [database release agreement](https://github.com/pp21/feaws_mad/blob/main/agreement.pdf) and send your request to the corresponding author of the database. Thank you.
+
+## References
+
+[1] Makrushin A, Neubert T, Dittmann J. Automatic Generation and Detection of Visually Faultless Facial Morphs. International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP), 2017: 39-50.
+
+[2] Ferrara M, Franco A, Maltoni D. Face demorphing. IEEE Transactions on Information Forensics and Security, 2018, 13(4): 1008-1017.
+
+[3]	Neubert T, Makrushin A, Hildebrandt M, et al. Extended stirtrace benchmarking of biometric and forensic qualities of morphed face images. IET Biometrics, 2018, 7(4): 325-332.
