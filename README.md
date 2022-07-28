@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The morphed face images database (henceforth, ''database'') contains images used for the detection of face morphing attacks. To foster the research of face morphing attack detection, the database will be released to researchers for academic research purpose upon request.
+The morphed face image database (henceforth, ''database'') contains images used for the detection of face morphing attacks. To foster the research of face morphing attack detection, the database will be released to researchers for academic research purpose upon request.
 
 The database is developed based on the face images from the public [ND-IIITD database](https://ieeexplore.ieee.org/document/7464282) and [the self-collected face images](https://github.com/pp21/watchlist-MAD). Unfortunately, due to the restriction of ND-IIITD database's release agreement, this part may not be released. But like the previously published paper, the list of the face image pairs used for morph generation will be released. For the part developed based on the self-collected face images, it will be fully released to the research community upon request.
 
